@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Say Hello
-        run: echo "test"
+        run: echo "test 1"
