@@ -1,5 +1,5 @@
 def add(a, b):
     """
-    Adds two numbers together.
+    Adds two numbers together. 
     """
     return a + b
